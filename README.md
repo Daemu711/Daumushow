@@ -1,6 +1,3 @@
-# Daumushow
-
-
 #user  nobody;
 worker_processes  1;
 
